@@ -1,1 +1,1 @@
-web: node app.js
+web: node web_eventproxy.js
